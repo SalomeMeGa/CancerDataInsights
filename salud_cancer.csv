@@ -1,0 +1,201 @@
+paciente_id,edad,genero,tipo_cancer,etapa,tratamiento,supervivencia_meses,resultado
+1,64,Masculino,Hígado,IV,Inmunoterapia,59,Fallecido
+2,67,Femenino,Pulmón,III,Radioterapia,113,Recuperado
+3,73,Femenino,Pulmón,I,Radioterapia,71,Recuperado
+4,20,Masculino,Colon,IV,Inmunoterapia,49,Fallecido
+5,23,Masculino,Mama,IV,Inmunoterapia,85,En tratamiento
+6,79,Masculino,Próstata,IV,Cirugía,68,Fallecido
+7,23,Masculino,Pulmón,I,Inmunoterapia,82,Fallecido
+8,59,Masculino,Piel,II,Cirugía,53,Recuperado
+9,29,Femenino,Próstata,IV,Cirugía,82,Fallecido
+10,39,Masculino,Pulmón,IV,Radioterapia,27,En tratamiento
+11,41,Femenino,Pulmón,III,Inmunoterapia,24,Fallecido
+12,70,Masculino,Colon,II,Radioterapia,95,Fallecido
+13,56,Masculino,Mama,IV,Inmunoterapia,19,Recuperado
+14,43,Masculino,Mama,IV,Radioterapia,100,En tratamiento
+15,26,Femenino,Colon,II,Cirugía,98,En tratamiento
+16,44,Femenino,Piel,II,Cirugía,114,Recuperado
+17,44,Femenino,Mama,I,Radioterapia,111,En tratamiento
+18,32,Masculino,Piel,I,Cirugía,91,En tratamiento
+19,78,Masculino,Próstata,IV,Quimioterapia,12,Fallecido
+20,21,Femenino,Próstata,III,Radioterapia,106,Recuperado
+21,58,Femenino,Mama,I,Radioterapia,54,En tratamiento
+22,59,Femenino,Mama,I,Inmunoterapia,46,Recuperado
+23,43,Femenino,Próstata,IV,Cirugía,32,Fallecido
+24,66,Masculino,Hígado,III,Quimioterapia,36,En tratamiento
+25,44,Masculino,Próstata,II,Inmunoterapia,11,Recuperado
+26,37,Masculino,Mama,III,Radioterapia,21,En tratamiento
+27,57,Femenino,Próstata,IV,Quimioterapia,69,Recuperado
+28,45,Femenino,Mama,III,Quimioterapia,107,Fallecido
+29,33,Masculino,Hígado,IV,Cirugía,43,Fallecido
+30,28,Femenino,Colon,IV,Radioterapia,65,En tratamiento
+31,29,Masculino,Pulmón,I,Inmunoterapia,119,En tratamiento
+32,40,Masculino,Mama,IV,Quimioterapia,101,Recuperado
+33,71,Femenino,Piel,III,Radioterapia,102,En tratamiento
+34,36,Masculino,Mama,III,Cirugía,118,Fallecido
+35,71,Femenino,Próstata,I,Radioterapia,86,Fallecido
+36,25,Femenino,Piel,IV,Cirugía,38,Fallecido
+37,35,Femenino,Piel,III,Radioterapia,68,En tratamiento
+38,67,Femenino,Pulmón,II,Inmunoterapia,16,Recuperado
+39,20,Masculino,Mama,I,Radioterapia,18,Fallecido
+40,38,Masculino,Colon,IV,Inmunoterapia,99,Fallecido
+41,55,Masculino,Piel,II,Cirugía,70,En tratamiento
+42,44,Femenino,Piel,III,Quimioterapia,35,En tratamiento
+43,69,Femenino,Colon,II,Quimioterapia,96,En tratamiento
+44,71,Femenino,Piel,II,Inmunoterapia,109,En tratamiento
+45,49,Masculino,Próstata,I,Radioterapia,28,Recuperado
+46,39,Femenino,Colon,II,Radioterapia,25,En tratamiento
+47,39,Femenino,Próstata,II,Radioterapia,11,Recuperado
+48,34,Femenino,Mama,IV,Quimioterapia,42,Recuperado
+49,59,Femenino,Hígado,II,Cirugía,89,Fallecido
+50,52,Masculino,Hígado,IV,Cirugía,106,Fallecido
+51,21,Masculino,Hígado,III,Cirugía,11,En tratamiento
+52,29,Femenino,Mama,I,Quimioterapia,98,Fallecido
+53,77,Femenino,Mama,II,Cirugía,82,Recuperado
+54,52,Masculino,Hígado,II,Inmunoterapia,32,En tratamiento
+55,51,Masculino,Próstata,IV,Inmunoterapia,119,En tratamiento
+56,30,Masculino,Piel,IV,Quimioterapia,89,En tratamiento
+57,72,Femenino,Piel,I,Radioterapia,18,En tratamiento
+58,43,Femenino,Hígado,II,Cirugía,108,Fallecido
+59,55,Masculino,Colon,III,Cirugía,13,En tratamiento
+60,31,Femenino,Colon,I,Inmunoterapia,58,Recuperado
+61,70,Femenino,Piel,II,Quimioterapia,86,En tratamiento
+62,75,Femenino,Pulmón,III,Radioterapia,35,Fallecido
+63,48,Femenino,Próstata,II,Cirugía,6,Recuperado
+64,54,Femenino,Próstata,III,Quimioterapia,93,Fallecido
+65,20,Masculino,Próstata,II,Quimioterapia,85,Fallecido
+66,20,Masculino,Pulmón,IV,Cirugía,80,Fallecido
+67,56,Masculino,Colon,III,Radioterapia,9,Fallecido
+68,73,Femenino,Hígado,IV,Cirugía,67,En tratamiento
+69,25,Masculino,Colon,II,Quimioterapia,73,Fallecido
+70,58,Femenino,Próstata,III,Inmunoterapia,22,En tratamiento
+71,60,Masculino,Hígado,IV,Inmunoterapia,118,En tratamiento
+72,72,Femenino,Colon,III,Quimioterapia,79,Fallecido
+73,37,Femenino,Próstata,III,Quimioterapia,90,Recuperado
+74,35,Masculino,Piel,III,Radioterapia,107,Fallecido
+75,24,Masculino,Piel,I,Quimioterapia,62,Fallecido
+76,61,Masculino,Colon,IV,Radioterapia,68,En tratamiento
+77,62,Femenino,Hígado,III,Quimioterapia,62,En tratamiento
+78,78,Masculino,Pulmón,III,Radioterapia,54,En tratamiento
+79,51,Masculino,Colon,IV,Cirugía,23,En tratamiento
+80,76,Femenino,Hígado,III,Inmunoterapia,63,Fallecido
+81,21,Femenino,Mama,III,Radioterapia,15,Recuperado
+82,21,Femenino,Próstata,I,Inmunoterapia,114,Recuperado
+83,59,Femenino,Mama,II,Cirugía,68,Recuperado
+84,61,Masculino,Colon,I,Radioterapia,85,Recuperado
+85,77,Femenino,Piel,IV,Cirugía,108,En tratamiento
+86,55,Masculino,Próstata,III,Radioterapia,84,Fallecido
+87,58,Masculino,Colon,I,Inmunoterapia,39,En tratamiento
+88,75,Masculino,Pulmón,I,Cirugía,10,En tratamiento
+89,31,Masculino,Colon,III,Quimioterapia,22,Fallecido
+90,66,Femenino,Pulmón,IV,Cirugía,106,Fallecido
+91,38,Femenino,Piel,II,Radioterapia,77,Fallecido
+92,47,Femenino,Hígado,IV,Inmunoterapia,68,En tratamiento
+93,20,Masculino,Pulmón,III,Quimioterapia,29,Recuperado
+94,34,Femenino,Mama,III,Quimioterapia,97,En tratamiento
+95,55,Masculino,Hígado,II,Cirugía,116,En tratamiento
+96,73,Masculino,Mama,II,Cirugía,13,Fallecido
+97,32,Femenino,Mama,III,Quimioterapia,28,En tratamiento
+98,77,Femenino,Mama,IV,Cirugía,104,Recuperado
+99,62,Femenino,Mama,II,Inmunoterapia,36,Recuperado
+100,40,Femenino,Pulmón,III,Quimioterapia,86,En tratamiento
+101,31,Femenino,Mama,II,Quimioterapia,33,Fallecido
+102,24,Femenino,Próstata,IV,Cirugía,53,En tratamiento
+103,26,Masculino,Pulmón,III,Cirugía,117,Recuperado
+104,24,Masculino,Piel,IV,Radioterapia,17,Recuperado
+105,67,Femenino,Pulmón,I,Cirugía,93,En tratamiento
+106,72,Femenino,Colon,II,Quimioterapia,84,Recuperado
+107,23,Femenino,Piel,II,Quimioterapia,109,En tratamiento
+108,32,Femenino,Mama,III,Radioterapia,36,Recuperado
+109,56,Femenino,Mama,III,Radioterapia,96,Fallecido
+110,72,Femenino,Colon,I,Quimioterapia,40,Recuperado
+111,60,Femenino,Hígado,III,Radioterapia,60,En tratamiento
+112,34,Femenino,Mama,II,Quimioterapia,87,En tratamiento
+113,35,Femenino,Piel,IV,Cirugía,41,Fallecido
+114,40,Femenino,Piel,III,Quimioterapia,77,Recuperado
+115,55,Masculino,Piel,I,Radioterapia,115,En tratamiento
+116,78,Masculino,Pulmón,IV,Cirugía,65,Recuperado
+117,43,Masculino,Pulmón,II,Quimioterapia,118,Fallecido
+118,35,Masculino,Piel,III,Quimioterapia,43,En tratamiento
+119,33,Femenino,Pulmón,I,Radioterapia,74,Fallecido
+120,73,Femenino,Hígado,III,Radioterapia,59,En tratamiento
+121,41,Femenino,Pulmón,II,Inmunoterapia,19,Recuperado
+122,68,Masculino,Próstata,III,Quimioterapia,107,En tratamiento
+123,69,Femenino,Hígado,II,Cirugía,25,Fallecido
+124,25,Femenino,Pulmón,I,Radioterapia,113,En tratamiento
+125,61,Femenino,Próstata,I,Cirugía,14,Fallecido
+126,55,Femenino,Hígado,II,Inmunoterapia,102,En tratamiento
+127,20,Femenino,Próstata,I,Radioterapia,87,Fallecido
+128,51,Femenino,Pulmón,III,Cirugía,75,Recuperado
+129,25,Femenino,Pulmón,I,Quimioterapia,106,En tratamiento
+130,50,Masculino,Pulmón,IV,Cirugía,7,Recuperado
+131,20,Masculino,Mama,II,Quimioterapia,35,En tratamiento
+132,69,Masculino,Próstata,III,Cirugía,11,En tratamiento
+133,70,Masculino,Mama,I,Quimioterapia,86,Recuperado
+134,56,Femenino,Piel,III,Quimioterapia,108,Fallecido
+135,54,Femenino,Pulmón,IV,Cirugía,46,Recuperado
+136,68,Masculino,Piel,I,Radioterapia,28,Recuperado
+137,49,Femenino,Hígado,I,Quimioterapia,36,En tratamiento
+138,23,Masculino,Mama,II,Inmunoterapia,25,Fallecido
+139,54,Masculino,Próstata,I,Cirugía,10,Fallecido
+140,62,Femenino,Colon,II,Inmunoterapia,26,Recuperado
+141,33,Masculino,Pulmón,I,Quimioterapia,112,Recuperado
+142,68,Femenino,Piel,III,Quimioterapia,80,Fallecido
+143,59,Masculino,Piel,IV,Cirugía,73,Recuperado
+144,41,Femenino,Piel,IV,Inmunoterapia,92,En tratamiento
+145,29,Masculino,Mama,I,Quimioterapia,66,En tratamiento
+146,20,Masculino,Mama,III,Inmunoterapia,107,Recuperado
+147,30,Masculino,Colon,II,Radioterapia,99,En tratamiento
+148,70,Masculino,Hígado,IV,Cirugía,47,Fallecido
+149,63,Femenino,Mama,IV,Quimioterapia,46,Recuperado
+150,78,Femenino,Próstata,I,Cirugía,66,En tratamiento
+151,43,Femenino,Próstata,III,Inmunoterapia,87,Recuperado
+152,79,Masculino,Piel,I,Cirugía,57,Fallecido
+153,22,Femenino,Pulmón,III,Inmunoterapia,46,En tratamiento
+154,77,Masculino,Piel,I,Inmunoterapia,65,Fallecido
+155,54,Femenino,Próstata,IV,Radioterapia,112,Recuperado
+156,55,Masculino,Próstata,III,Cirugía,100,Recuperado
+157,50,Masculino,Próstata,III,Inmunoterapia,35,En tratamiento
+158,79,Masculino,Piel,I,Cirugía,103,Fallecido
+159,23,Masculino,Colon,I,Cirugía,100,Recuperado
+160,38,Femenino,Pulmón,III,Cirugía,116,Fallecido
+161,66,Femenino,Colon,II,Cirugía,43,Fallecido
+162,55,Femenino,Colon,IV,Quimioterapia,94,En tratamiento
+163,40,Masculino,Pulmón,II,Inmunoterapia,22,Fallecido
+164,37,Femenino,Próstata,II,Cirugía,105,Recuperado
+165,70,Masculino,Próstata,II,Quimioterapia,45,Recuperado
+166,47,Masculino,Piel,I,Quimioterapia,35,En tratamiento
+167,34,Femenino,Piel,III,Radioterapia,71,Fallecido
+168,61,Femenino,Colon,II,Radioterapia,29,Recuperado
+169,78,Femenino,Pulmón,II,Cirugía,78,Recuperado
+170,21,Masculino,Pulmón,IV,Radioterapia,6,En tratamiento
+171,56,Femenino,Mama,IV,Quimioterapia,93,Fallecido
+172,30,Femenino,Mama,II,Inmunoterapia,43,Fallecido
+173,42,Masculino,Colon,IV,Cirugía,117,Fallecido
+174,63,Femenino,Piel,II,Radioterapia,69,Recuperado
+175,60,Masculino,Próstata,IV,Inmunoterapia,32,Recuperado
+176,31,Femenino,Hígado,III,Quimioterapia,95,En tratamiento
+177,22,Femenino,Próstata,I,Radioterapia,95,Recuperado
+178,71,Masculino,Colon,III,Cirugía,12,En tratamiento
+179,36,Masculino,Pulmón,II,Radioterapia,94,En tratamiento
+180,52,Femenino,Mama,II,Cirugía,85,Fallecido
+181,74,Femenino,Piel,II,Cirugía,107,En tratamiento
+182,20,Masculino,Pulmón,II,Radioterapia,47,Fallecido
+183,58,Femenino,Piel,III,Cirugía,23,Fallecido
+184,39,Femenino,Piel,I,Cirugía,86,Recuperado
+185,66,Femenino,Colon,II,Cirugía,118,Recuperado
+186,62,Femenino,Mama,III,Inmunoterapia,49,En tratamiento
+187,71,Femenino,Mama,IV,Cirugía,116,En tratamiento
+188,76,Femenino,Hígado,II,Radioterapia,75,En tratamiento
+189,60,Masculino,Próstata,IV,Cirugía,25,En tratamiento
+190,33,Masculino,Pulmón,II,Cirugía,117,Recuperado
+191,50,Femenino,Hígado,II,Cirugía,28,En tratamiento
+192,44,Masculino,Hígado,III,Inmunoterapia,115,Fallecido
+193,22,Femenino,Pulmón,I,Cirugía,17,Recuperado
+194,23,Masculino,Hígado,III,Quimioterapia,17,Fallecido
+195,50,Masculino,Mama,III,Radioterapia,39,En tratamiento
+196,54,Femenino,Piel,IV,Radioterapia,13,Recuperado
+197,63,Femenino,Próstata,III,Inmunoterapia,32,Fallecido
+198,33,Femenino,Hígado,III,Quimioterapia,54,Recuperado
+199,68,Femenino,Próstata,III,Radioterapia,77,Fallecido
+200,60,Femenino,Piel,I,Quimioterapia,117,Recuperado
